@@ -1,4 +1,4 @@
-# Official髭男dism – Same Blue
+# OFFICIAL HIGE DANDISM – Same Blue
 
 > **歌詞登録ステータス：同期歌詞あり**
 
