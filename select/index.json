@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Same Blue",
   "base_artist": "OFFICIAL HIGE DANDISM",
-  "createdAt": "2025-12-22T02:16:00.421153Z",
+  "createdAt": "2026-02-16T06:48:53.081804Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,150 @@
       "artist": "OFFICIAL HIGE DANDISM",
       "has_synced": true,
       "path": "select/10_Same_Blue_(Paused)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hell's More or Less the Same",
+      "artist": "Darrin Bradbury",
+      "has_synced": false,
+      "path": "select/11_Hell's_More_or_Less_the_Same_Darrin_Bradbury.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Same Beer Different Problem",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/12_Same_Beer_Different_Problem_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Same Boat",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/13_Same_Boat_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Same Boat",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/14_Same_Boat_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Same Boots",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/15_Same_Boots_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Same Boots (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/16_Same_Boots_(LP_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Same Ole Me",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/17_Same_Ole_Me_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Same Ole Me (Album Version)",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/18_Same_Ole_Me_(Album_Version)_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Same Road Home",
+      "artist": "Tenille Townes",
+      "has_synced": true,
+      "path": "select/19_Same_Road_Home_Tenille_Townes.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Same Old Me",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/20_The_Same_Old_Me_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Same Old Me (Album Version)",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/21_The_Same_Old_Me_(Album_Version)_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Feelin' The Same Way",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/22_Feelin'_The_Same_Way_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "My Same",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/23_My_Same_Adele.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "My Same - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/24_My_Same_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Same Mistake",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/25_Same_Mistake_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Same Mistake",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/26_Same_Mistake_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Same Parts",
+      "artist": "Tatianna",
+      "has_synced": true,
+      "path": "select/27_The_Same_Parts_Tatianna.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Always Crashing in the Same Car",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/28_Always_Crashing_in_the_Same_Car_David_Bowie.lrc"
     },
     {
       "id": "petitlyrics_1",
