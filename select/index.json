@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Same Blue",
-  "base_artist": "OFFICIAL HIGE DANDISM",
-  "createdAt": "2026-02-16T06:48:53.081804Z",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-18T14:04:36.140149Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -235,6 +235,15 @@
       "artist": "Official髭男dism",
       "has_synced": false,
       "path": "select/pl_01_Same_Blue_Official髭男dism.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Same Blue",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/localdb_01_Same_Blue_Official髭男dism.lrc",
+      "repo_name": "A7cp6OVa0Qc"
     }
   ]
 }
